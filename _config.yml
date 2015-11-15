@@ -1,0 +1,23 @@
+name: Centre Stage HK
+favicon: null
+layout_spectrum: 0.4728727228939533
+typography_spectrum: 0.9062173566780984
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8243063893169165
+  lightness: 0.009564303327351809
+  saturation: 0.14626059960573912
+  rhythmicContrast: 0.5534067011903971
+purpose: []
