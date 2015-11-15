@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: About our teaching philosophies in quality music education
-datePublished: '2015-11-15T12:39:33.004Z'
-dateModified: '2015-11-15T12:38:11.422Z'
+datePublished: '2015-11-15T12:39:45.422Z'
+dateModified: '2015-11-15T12:39:33.004Z'
 title: Our Philosophy
 authors: []
 publisher:
