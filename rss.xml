@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Centre Stage HK]]></title>
+        <description><![CDATA[Centre Stage HK]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 02:33:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Main site ]]></title>
+            <description><![CDATA[<article><h1>Main site </h1><p>One of the best music centres located in Hong Kong, providing students with professional music lessons such as Violin, Piano, Clarinet, Oboe, Guitar and more.</p><img src="https://static.wixstatic.com/media/6be1e2_291ea646a0ea4e9f9c985c2a9c980d58.jpg"></article>]]></description>
+            <link>http://www.centrestagehk.com/</link>
+            <guid isPermaLink="false">d16f255d-f351-4372-988d-d90bdc006154</guid>
+            <pubDate>Wed, 10 Feb 2016 02:32:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
