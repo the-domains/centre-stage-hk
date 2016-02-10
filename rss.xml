@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Centre Stage HK]]></title>
         <description><![CDATA[Centre Stage HK]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/centre-stage-hk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 02:33:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 02:33:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/centre-stage-hk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Note to self]]></title>
+            <description><![CDATA[<article><h1>My Music Staff - Login</h1></article>]]></description>
+            <link>https://login.mymusicstaff.com/Teacher/Default.aspx</link>
+            <guid isPermaLink="false">ca2d3803-196f-41b9-9c1b-f054d7306ce5</guid>
+            <pubDate>Wed, 10 Feb 2016 02:32:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Main site ]]></title>
             <description><![CDATA[<article><h1>Main site </h1><p>One of the best music centres located in Hong Kong, providing students with professional music lessons such as Violin, Piano, Clarinet, Oboe, Guitar and more.</p><img src="https://static.wixstatic.com/media/6be1e2_291ea646a0ea4e9f9c985c2a9c980d58.jpg"></article>]]></description>
