@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Centre Stage HK]]></title>
-        <description><![CDATA[Centre Stage HK]]></description>
+        <title><![CDATA[Centre Stage 匯中音樂學院]]></title>
+        <description><![CDATA[Centre Stage 匯中音樂學院]]></description>
         <link>https://thegrid.ai/centre-stage-hk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 02:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 15:51:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/centre-stage-hk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Performances]]></title>
+            <description><![CDATA[<article><h1>Performances</h1><p>Our Students</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b6fef01a756f90f529e456f358d9b0f3535d43a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/centre-stage-hk/c6e5bee1-cc12-4265-abed-3b52a74842b5/index.html</link>
+            <guid isPermaLink="false">c6e5bee1-cc12-4265-abed-3b52a74842b5</guid>
+            <pubDate>Fri, 04 Mar 2016 15:50:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Main site ]]></title>
-            <description><![CDATA[<article><h1>Main site </h1><p>One of the best music centres located in Hong Kong, providing students with professional music lessons such as Violin, Piano, Clarinet, Oboe, Guitar and more.</p><img src="https://static.wixstatic.com/media/6be1e2_291ea646a0ea4e9f9c985c2a9c980d58.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Main site </h1><p>One of the best music centres located in Hong Kong, providing students with professional music lessons such as Violin, Piano, Clarinet, Oboe, Guitar and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59f85bc85b679bfe2ff43d6ae903e93fabb84f5b.jpg"></article>]]></description>
             <link>http://www.centrestagehk.com/</link>
             <guid isPermaLink="false">d16f255d-f351-4372-988d-d90bdc006154</guid>
             <pubDate>Wed, 10 Feb 2016 02:32:41 GMT</pubDate>
