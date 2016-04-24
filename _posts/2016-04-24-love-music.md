@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T11:39:38.145Z'
-dateModified: '2016-04-24T11:39:29.943Z'
+datePublished: '2016-04-24T11:59:31.181Z'
+dateModified: '2016-04-24T11:59:30.442Z'
 title: LOVE MUSIC?
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-24-love-music.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-love-music.md
-published: true
 url: love-music/index.html
 _type: Article
 
