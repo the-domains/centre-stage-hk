@@ -1,7 +1,7 @@
 name: Centre Stage HK
 favicon: null
-layout_spectrum: 0.9175627
-typography_spectrum: 0.73672
+layout_spectrum: 0.36498
+typography_spectrum: 0.79542
 collections:
   - index:
       path: /
