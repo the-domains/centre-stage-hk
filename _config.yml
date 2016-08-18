@@ -1,41 +1,41 @@
-name: Centre Stage HK
-favicon: null
-layout_spectrum: 0.36498
-typography_spectrum: 0.79542
+title: Centre Stage 匯中音樂學院
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Centre Stage 匯中音樂學院
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.375
+  brandStrength: 0.7795699
+  rhythmicContrast: 0.5
   brandColors:
     - '#000000'
     - '#f79323'
     - '#fefefe'
     - '#4f4f4f'
     - '#808185'
-  brandStrength: 0.7795699
   lightness: 0.75
-  saturation: 0.375
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Centre Stage HK
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7634408
+layout_spectrum: 0.4964158
